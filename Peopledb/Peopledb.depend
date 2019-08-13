@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1565736468 source:c:\users\tyler\desktop\people database\peopledb.c
+	<stdio.h>
+	<string.h>
+	"peopledb.h"
+
+1565736232 c:\users\tyler\desktop\people database\peopledb.h
+
+1565736061 source:c:\users\tyler\desktop\people database\main.c
+	<stdio.h>
+	<string.h>
+	"peopledb.h"
+
